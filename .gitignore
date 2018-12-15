@@ -1,3 +1,4 @@
 config
 input
-./trash
+trash
+*.pyc
